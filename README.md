@@ -35,11 +35,16 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=idea" height="40" width="40" alt="intellijidea logo"  /> <img /><img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="github logo"/><p align="left"><img />
 <!--   <img src="https://komarev.com/ghpvc/?username=Aksharpatel06&abbreviated=true" alt="Aksharpatel06" /> -->
 <!--   <img src="https://komarev.com/ghpvc/?username=Aksharpatel06&label=Profile%20views&color=0e75b6&style=flat" alt="Aksharpatel06" /> --></p>
-  
-## GitHub Award
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aksharpatel06&no-bg=true" alt="Aksharpatel06" /></a> </p>
 
-<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>-->
+  <details> 
+  <summary><h2>🏆GitHub Award</h2></summary>
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aksharpatel06&no-bg=true" alt="Aksharpatel06" /></a> </p>
+    </a>
+  </p>
+  </details>
+
 
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
@@ -50,8 +55,8 @@
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aksharpatel06&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" alt="aksharpatel06" /></p>
-       <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aksharpatel06&show_icons=true&locale=en&theme=vue-dark&hide_border=true" alt="aksharpatel06" /></p>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aksharpatel06&theme=vue-dark&hide_border=true" alt="aksharpatel06" /></p>
+       <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aksharpatel06&show_icons=true&locale=en&theme=vue-dark&hide_border=true" alt="aksharpatel06" /></p>
+      <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aksharpatel06&theme=vue-dark&hide_border=true" alt="aksharpatel06" /></p>
     </a>
 <!--     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
   </p>
