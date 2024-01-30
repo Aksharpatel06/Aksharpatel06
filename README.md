@@ -31,8 +31,12 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=idea" height="40" width="40" alt="intellijidea logo"  /> <img /><img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="github logo"/><p align="left"><img />
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=discord,flutter,linkedin,java,visualstudio,twitter" /><br>
+</div>
 <!--   <img src="https://komarev.com/ghpvc/?username=Aksharpatel06&abbreviated=true" alt="Aksharpatel06" /> -->
 <!--   <img src="https://komarev.com/ghpvc/?username=Aksharpatel06&label=Profile%20views&color=0e75b6&style=flat" alt="Aksharpatel06" /> --></p>
 
