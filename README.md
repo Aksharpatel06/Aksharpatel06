@@ -38,7 +38,8 @@
     <img src="https://skillicons.dev/icons?i=discord,flutter,linkedin,java,visualstudio,twitter" /><br>
 </div>
 <!--   <img src="https://komarev.com/ghpvc/?username=Aksharpatel06&abbreviated=true" alt="Aksharpatel06" /> -->
-<!--   <img src="https://komarev.com/ghpvc/?username=Aksharpatel06&label=Profile%20views&color=0e75b6&style=flat" alt="Aksharpatel06" /> --></p>
+<!--   <img src="https://komarev.com/ghpvc/?username=Aksharpatel06&label=Profile%20views&color=0e75b6&style=flat" alt="Aksharpatel06" /> -->
+</p>
 
   <details> 
   <summary><h2>🏆GitHub Award</h2></summary>
