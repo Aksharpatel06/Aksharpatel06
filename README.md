@@ -1,4 +1,5 @@
-![MasterHead](./github-header-image.png)
+
+<img align="center"  width="800" src="./github-header-image.png" style="border-radius:50px">
 <!--     <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Akshar+Patel!;" /> -->
 <!-- </h1> -->
 <h1 align="center">I'm Akshar Patel👋
