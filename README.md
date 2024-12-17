@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Core Flutter**
+- 👯 I’m looking to collaborate on **PHP**
 
 - 🤝 I’m looking for help with **Best Techers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aksharpatel06?tab=repositories](https://github.com/Aksharpatel06?tab=repositories)
 
-- 💬 Ask me about **C, C++, Dart**
+- 💬 Ask me about **C, C++, Dart, flutter, php, **
 
 - 📫 How to reach me **aksharpatel030306@gmail.com**
 
@@ -37,8 +37,8 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=discord,flutter,linkedin,java,visualstudio,twitter" /><br>
 </div>
-<!--   <img src="https://komarev.com/ghpvc/?username=Aksharpatel06&abbreviated=true" alt="Aksharpatel06" /> -->
-<!--   <img src="https://komarev.com/ghpvc/?username=Aksharpatel06&label=Profile%20views&color=0e75b6&style=flat" alt="Aksharpatel06" /> -->
+<!--    <img src="https://komarev.com/ghpvc/?username=Aksharpatel06&abbreviated=true" alt="Aksharpatel06" /> 
+  <img src="https://komarev.com/ghpvc/?username=Aksharpatel06&label=Profile%20views&color=0e75b6&style=flat" alt="Aksharpatel06" />  -->
 </p>
 
   <details> 
