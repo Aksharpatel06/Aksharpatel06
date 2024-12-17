@@ -11,23 +11,17 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> -->
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" style="border-radius:50px">
 
-- 🔭 I’m currently working on **Flutter Development**
+### 🚀 **About Me**
 
-- 🌱 I’m currently learning **Flutter**
+- 🔭 I’m currently working on **Flutter Development**  
+- 🌱 I’m currently learning **Flutter**  
+- 👯 I’m looking to collaborate on **PHP Projects**  
+- 🤝 I’m looking for help with **Learning Best Practices**  
+- 💬 Ask me about **C, C++, Dart, Flutter, PHP**  
+- 📫 How to reach me: **aksharpatel030306@gmail.com**  
+- ⚡ Fun fact: **I am Funny 😅**
 
-- 👯 I’m looking to collaborate on **PHP**
-
-- 🤝 I’m looking for help with **Best Techers**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Aksharpatel06?tab=repositories](https://github.com/Aksharpatel06?tab=repositories)
-
-- 💬 Ask me about **C, C++, Dart, flutter, php, **
-
-- 📫 How to reach me **aksharpatel030306@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Aksharpatel06](https://github.com/Aksharpatel06)
-
-- ⚡ Fun fact **I am Funny 😅**
+---
 
 
 
