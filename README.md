@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=discord,flutter,linkedin,java,visualstudio,twitter" /><br>
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,github,figma,git,dart,python,firebase,supabase,java,php,sqlite,notion,pycharm" />
+    <img src="https://skillicons.dev/icons?i=discord,flutter,linkedin,java,visualstudio,twitter,postman,bots,gcp,linkedin,instagram,idea,netlify"" /><br>
 </div>
 <!--    <img src="https://komarev.com/ghpvc/?username=Aksharpatel06&abbreviated=true" alt="Aksharpatel06" /> 
   <img src="https://komarev.com/ghpvc/?username=Aksharpatel06&label=Profile%20views&color=0e75b6&style=flat" alt="Aksharpatel06" />  -->
