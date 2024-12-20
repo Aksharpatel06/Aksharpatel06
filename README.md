@@ -42,7 +42,7 @@
   <a href="mailto:aksharpatel030306@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href=https://medium.com/@aksharpatel030306" target="_blank">
+  <a href=https://medium.com/@aksharpatel030306">
     <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 </p>
