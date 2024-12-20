@@ -25,7 +25,6 @@
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,github,figma,git,dart,python,firebase,supabase,java,php,sqlite,notion,pycharm" />
     <img src="https://skillicons.dev/icons?i=discord,flutter,linkedin,java,visualstudio,twitter,postman,bots,gcp,linkedin,instagram,idea,netlify"" /><br>
@@ -36,7 +35,6 @@
 
 
 <h2 align="center">⚒️ Connect with Me ⚒️</h2>
-<br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/akshar-patel-073b0a295/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
