@@ -62,12 +62,11 @@
 
   <h3>🔥 Streak Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aksharpatel06&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" alt="aksharpatel06" /></p>
        <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aksharpatel06&show_icons=true&locale=en&theme=vue-dark&hide_border=true" alt="aksharpatel06" /></p>
       <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aksharpatel06&theme=vue-dark&hide_border=true" alt="aksharpatel06" /></p>
     </a>
-<!--     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
   </p>
