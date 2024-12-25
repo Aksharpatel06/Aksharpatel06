@@ -20,9 +20,6 @@
 - 📫 Reach me at: **aksharpatel030306@gmail.com**  
 - ⚡ Fun fact: **I’m funny and love solving puzzles!**
 
----
-
-
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
