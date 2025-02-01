@@ -2,7 +2,6 @@
 
 
 
-
 <h3 align="center">A passionate Flutter developer from India</h3>
 
 <p align="center">
