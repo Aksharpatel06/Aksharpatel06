@@ -72,7 +72,7 @@
 
 ## 🐍 **Contribution Snake Animation**
 <p align="center">
-  <img src="https://github.com/Aksharpatel06/Aksharpatel06/blob/output/github-contribution-grid-snake.svg" />
+  <img src=""https://raw.githubusercontent.com/Aksharpatel06/Aksharpatel06/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -109,7 +109,7 @@
 If you like my work, consider **buying me a coffee** ☕:
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/aksharpatel">
+  <a href="https://buymeacoffee.com/aksharpatel06">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
   </a>
 </p>
