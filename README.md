@@ -68,14 +68,14 @@
   </details>
 
 
-<!--
+
 
 ## 🐍 **Contribution Snake Animation**
 <p align="center">
-  <img src=""https://raw.githubusercontent.com/Aksharpatel06/Aksharpatel06/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Aksharpatel06/Aksharpatel06/output/github-contribution-grid-snake.svg" />
 </p>
 
---->
+
 
 ## 🎵 **Currently Listening To**
 <!--<p align="center">
