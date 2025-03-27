@@ -68,19 +68,21 @@
   </details>
 
 
----
+<!--
 
 ## 🐍 **Contribution Snake Animation**
 <p align="center">
   <img src=""https://raw.githubusercontent.com/Aksharpatel06/Aksharpatel06/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+--->
 
 ## 🎵 **Currently Listening To**
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=6A5ACD" />
-</p>
+<!--<p align="center">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=6A5ACD" /> -->
+[![Spotify](https://img.shields.io/badge/Now_Playing-Spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6)
+<!--   <iframe src="https://open.spotify.com/embed/track/6rqhFgbbKwnb9MLmUQDhG6" width="300" height="80" frameborder="0" allowtransparency="true"></iframe> -->
+<!-- </p> -->
 
 ---
 
@@ -88,7 +90,7 @@
 🧩 I love **solving puzzles, coding challenges, and exploring new technologies!**
 
 ---
-
+<!--
 ## 📈 **GitHub 3D Contribution Graph**
 <p align="center">
   <a href="https://skyline.github.com/Aksharpatel06/2023">
@@ -96,7 +98,7 @@
   </a>
 </p>
 
----
+--->
 
 ## 🔥 **Profile Views Counter**
 <p align="center">
