@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Contribution Snake 🐍
 
 on:
   schedule:
@@ -9,17 +9,19 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Generate Contribution Snake
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: Aksharpatel06
           outputs: |
-            dist/github-snake.svg
+            dist/github-contribution-grid-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-      - name: Push Contribution Snake
-        uses: actions/upload-artifact@v2
+
+      - name: Upload Generated Snake
+        uses: actions/upload-artifact@v3
         with:
-          name: github-snake
+          name: snake-artifact
           path: dist
