@@ -65,3 +65,53 @@
       <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aksharpatel06&theme=vue-dark&hide_border=true" alt="aksharpatel06" /></p>
     </a>
   </p>
+  </details>
+
+
+---
+
+## 🐍 **Contribution Snake Animation**
+<p align="center">
+  <img src="https://github.com/Aksharpatel06/Aksharpatel06/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎵 **Currently Listening To**
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=6A5ACD" />
+</p>
+
+---
+
+## 💡 **Fun Fact**
+🧩 I love **solving puzzles, coding challenges, and exploring new technologies!**
+
+---
+
+## 📈 **GitHub 3D Contribution Graph**
+<p align="center">
+  <a href="https://skyline.github.com/Aksharpatel06/2023">
+    <img src="https://skyline.github.com/Aksharpatel06/2023" />
+  </a>
+</p>
+
+---
+
+## 🔥 **Profile Views Counter**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aksharpatel06&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+</p>
+
+---
+
+## 🎯 **Support Me**
+If you like my work, consider **buying me a coffee** ☕:
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/aksharpatel">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+  </a>
+</p>
+
+---
