@@ -43,8 +43,7 @@
     <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 </p>
-
-  <details> 
+<details> 
   <summary><h2>🏆GitHub Award</h2></summary>
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
