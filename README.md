@@ -61,10 +61,11 @@
   [![Spotify](https://img.shields.io/badge/Now_Playing-Spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6)
 </details> 
 
-## 🔥 **Profile Views Counter**
 <p align="center">
+  <h2>🔥 Profile Views Counter: &nbsp;&nbsp;&nbsp;
   <img src="https://profile-counter.glitch.me/Aksharpatel06/count.svg" alt="Profile Views" />
 </p>
+
 
 <h2 align="center">🧩 Connect with Me 🧩</h2>
 <p align="center">
