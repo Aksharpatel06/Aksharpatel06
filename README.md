@@ -20,6 +20,8 @@
 - 📫 Reach me at: **aksharpatel030306@gmail.com**  
 - ⚡ Fun fact: **I’m funny and love solving puzzles!**
 
+## 💡 **Fun Fact**
+🧩 I love **solving puzzles, coding challenges, and exploring new technologies!**
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
@@ -31,18 +33,7 @@
 ---
 
 
-<h2 align="center">🧩 Connect with Me 🧩</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/akshar-patel-073b0a295/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:aksharpatel030306@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href=https://medium.com/@aksharpatel030306">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-</p>
+
 <details> 
   <summary><h2>🏆GitHub Award</h2></summary>
   <p>
@@ -69,26 +60,21 @@
 
 
 
-## 🐍 **Contribution Snake Animation**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AksharPatel06/AksharPatel06/output/snake.svg" />
-</p>
+<details> 
+  <summary><h2>🎵 Currently Listening To</h2></summary>
+  [![Spotify](https://img.shields.io/badge/Now_Playing-Spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6)
+</details> 
 
-
-
-## 🎵 **Currently Listening To**
 <!--<p align="center">
    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=6A5ACD" /> -->
-[![Spotify](https://img.shields.io/badge/Now_Playing-Spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6)
+
 <!--   <iframe src="https://open.spotify.com/embed/track/6rqhFgbbKwnb9MLmUQDhG6" width="300" height="80" frameborder="0" allowtransparency="true"></iframe> -->
 <!-- </p> -->
 
----
 
-## 💡 **Fun Fact**
-🧩 I love **solving puzzles, coding challenges, and exploring new technologies!**
 
----
+
+
 <!--
 ## 📈 **GitHub 3D Contribution Graph**
 <p align="center">
@@ -101,18 +87,33 @@
 
 ## 🔥 **Profile Views Counter**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aksharpatel06&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/Aksharpatel06/count.svg" alt="Profile Views" />
 </p>
-
----
-
+<!--
 ## 🎯 **Support Me**
-If you like my work, consider **buying me a coffee** ☕:
+If you like my work, consider **buying me a coffee** ☕:-->
 
+<!-- <p align="center">-->
+<!--   <a href="https://buymeacoffee.com/aksharpatel06"> -->
+<!--     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"> -->
+<!--   </a> -->
+<!-- </p> -->
+
+
+<h2 align="center">🧩 Connect with Me 🧩</h2>
 <p align="center">
-  <a href="https://buymeacoffee.com/aksharpatel06">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+  <a href="https://www.linkedin.com/in/akshar-patel-073b0a295/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:aksharpatel030306@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href=https://medium.com/@aksharpatel030306">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 </p>
-
----
+ 
+## 🐍 **Contribution Snake Animation**
+<p align="center">
+    <img src="https://raw.githubusercontent.com/AksharPatel06/AksharPatel06/output/snake.svg" />
+  </p>
