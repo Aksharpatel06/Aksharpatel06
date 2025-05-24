@@ -27,8 +27,8 @@
 
 <h2 align="center">🎨 Languages, Frameworks & Tools</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,github,figma,git,dart,python,firebase,supabase,java,php,sqlite,notion,pycharm" />
-    <img src="https://skillicons.dev/icons?i=discord,flutter,linkedin,java,visualstudio,twitter,postman,bots,gcp,linkedin,instagram,idea,netlify"" /><br>
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,github,figma,git,dart,python,firebase,supabase,java,php,sqlite" />
+    <img src="https://skillicons.dev/icons?i=discord,flutter,linkedin,java,twitter,postman,gcp,linkedin,notion,idea,netlify"" /><br>
 </div>
 </p>
 
