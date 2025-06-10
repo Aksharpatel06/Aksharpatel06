@@ -18,7 +18,7 @@
 - 🤝 I’m looking for help with **Learning Industry Standards**  
 - 💬 Ask me about **C, C++, Dart, Flutter, PHP**  
 - 📫 Reach me at: **aksharpatel030306@gmail.com**  
-- ⚡ Fun fact: **I’m funny and love solving puzzles!**
+- ⚡ Fun fact: **I’m funny and love solving puzzle!**
 
 ## 💡 **Fun Fact**
 🧩 I love **solving puzzles, coding challenges, and exploring new technologies!**
