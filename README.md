@@ -55,11 +55,11 @@
 
 
 
-
+<!--
 <details> 
   <summary><h2>🎵 Currently Listening To</h2></summary>
   [![Spotify](https://img.shields.io/badge/Now_Playing-Spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6)
-</details> 
+</details> -->
 
 <h2 align="center">🔥 Profile Views Counter  </h2>
 <p align="center">
