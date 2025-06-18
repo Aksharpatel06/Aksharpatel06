@@ -2,6 +2,7 @@
 
 <h3 align="center">A passionate Flutter developer from India</h3>
 
+
 <p align="center">
   <a href="https://github.com/Aksharpatel06/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Expertise+in+Flutter+Development+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Always+Learning+New+Technologies;Open+to+Collaboration;&font=Fira%20Code&center=true&width=500&height=50&color=6A5ACD&vCenter=true&pause=2000&size=24" />
