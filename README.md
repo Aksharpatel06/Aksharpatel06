@@ -9,6 +9,23 @@
   </a>
 </p>
 
+
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+  <a href="https://aksharpatel.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FF6B6B?style=for-the-badge&logoColor=white&labelColor=FF6B6B&color=FF4757" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/akshar-patel-073b0a295/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0088CC" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aksharpatel030306@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=EA4335" alt="Gmail" />
+  </a>
+  <a href="https://medium.com/@aksharpatel030306" target="_blank">
+    <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E&color=1A1A1A" alt="Medium" />
+  </a>
+</div>
+<br>
+
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" style="border-radius:50px">
 
 ### 🚀 About Me
