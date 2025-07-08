@@ -51,7 +51,9 @@ const akshar = {
   <summary><h2>🏆GitHub Award</h2></summary>
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aksharpatel06&no-bg=true" alt="Aksharpatel06" /></a> </p>
+     <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aksharpatel06&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
     </a>
   </p>
   </details>
@@ -59,8 +61,6 @@ const akshar = {
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
-
-  
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aksharpatel06&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" alt="aksharpatel06" /></p>
@@ -69,7 +69,13 @@ const akshar = {
     </a>
   </p>
   </details>
+  ## 🎵 Fun Section
 
+<!---<div align="center">
+  <h3>🧩 Fun Facts About Me</h3>
+  <img src="https://readme-quotes-api.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+--->
 ### 🎮 When I'm Not Coding...
 - 🧩 Solving puzzles and brain teasers
 - 📚 Reading tech blogs and documentation
@@ -90,11 +96,11 @@ const akshar = {
 
 ---
 
-<div align="center">
+<!--<div align="center">
   <h2>🔥 Profile Views</h2>
   <img src="https://profile-counter.glitch.me/Aksharpatel06/count.svg" alt="Profile Views" />
 </div>
-
+-->
 <div align="center">
   <h3>💫 Thanks for visiting my profile! Let's connect and build amazing things together!</h3>
   
