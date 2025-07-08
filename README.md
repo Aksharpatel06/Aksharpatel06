@@ -13,23 +13,39 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Flutter Development**  
-- 🌱 I’m currently learning **Flutter Best Practices**  
-- 👯 I’m looking to collaborate on **PHP Projects**  
-- 🤝 I’m looking for help with **Learning Industry Standards**  
-- 💬 Ask me about **C, C++, Dart, Flutter, PHP**  
-- 📫 Reach me at: **aksharpatel030306@gmail.com**  
-- ⚡ Fun fact: **I’m funny and love solving puzzle!**
+```typescript
+const akshar = {
+  currentFocus: "Flutter Development",
+  learning: ["Flutter Best Practices", "Advanced Dart", "State Management"],
+  collaboration: "Open to PHP and Flutter projects",
+  technologies: ["C", "C++", "Dart", "Flutter", "PHP", "Python"],
+  contact: "aksharpatel030306@gmail.com",
+  funFact: "I love solving puzzles and coding challenges! 🧩"
+};
+```
 
-## 💡 **Fun Fact**
-🧩 I love **solving puzzles, coding challenges, and exploring new technologies!**
+### 🎯 Current Goals
+- 🔭 Working on **Flutter Development Projects**
+- 🌱 Learning **Flutter Best Practices & Advanced Patterns**
+- 👯 Looking to collaborate on **PHP & Flutter Projects**
+- 🤝 Seeking help with **Industry Standards & Best Practices**
+- 💬 Ask me about **C, C++, Dart, Flutter, PHP**
 
-<h2 align="center">🎨 Languages, Frameworks & Tools</h2>
+## 🛠️ Tech Stack
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,github,figma,git,dart,python,firebase,supabase,java,php,sqlite" />
-    <img src="https://skillicons.dev/icons?i=discord,flutter,linkedin,java,twitter,postman,gcp,linkedin,notion,idea,netlify"" /><br>
+  <h3>📱 Mobile Development</h3>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase" />
+  
+  <h3>💻 Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php" />
+  
+  <h3>🔧 Tools & Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,supabase,sqlite,gcp" />
+  
+  <h3>🌐 Other</h3>
+  <img src="https://skillicons.dev/icons?i=discord,linkedin,twitter,notion,idea,netlify" />
 </div>
-</p>
 
 <details> 
   <summary><h2>🏆GitHub Award</h2></summary>
@@ -54,32 +70,39 @@
   </p>
   </details>
 
+### 🎮 When I'm Not Coding...
+- 🧩 Solving puzzles and brain teasers
+- 📚 Reading tech blogs and documentation
+- 🎵 Listening to music while coding
+- 🌟 Contributing to open-source projects
 
+## 📈 Contribution Graph
 
-<!--
-<details> 
-  <summary><h2>🎵 Currently Listening To</h2></summary>
-  [![Spotify](https://img.shields.io/badge/Now_Playing-Spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6)
-</details> -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aksharpatel06&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
 
-<h2 align="center">🔥 Profile Views Counter  </h2>
-<p align="center">
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aksharpatel06/Aksharpatel06/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🔥 Profile Views</h2>
   <img src="https://profile-counter.glitch.me/Aksharpatel06/count.svg" alt="Profile Views" />
-</p>
+</div>
 
-<h2 align="center">🧩 Connect with Me 🧩</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/akshar-patel-073b0a295/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<div align="center">
+  <h3>💫 Thanks for visiting my profile! Let's connect and build amazing things together!</h3>
+  
+  <a href="https://aksharpatel.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌟_Check_Out_My_Portfolio-4CAF50?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:aksharpatel030306@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href=https://medium.com/@aksharpatel030306">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-</p>
+</div>
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/AksharPatel06/AksharPatel06/output/snake.svg" />
-  </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
+</div>
