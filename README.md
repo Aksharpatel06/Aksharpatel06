@@ -41,10 +41,10 @@ const akshar = {
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php" />
   
   <h3>🔧 Tools & Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,supabase,sqlite,gcp" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,supabase,sqlite" />
   
   <h3>🌐 Other</h3>
-  <img src="https://skillicons.dev/icons?i=discord,linkedin,twitter,notion,idea,netlify" />
+  <img src="https://skillicons.dev/icons?i=discord,linkedin,twitter,notion,idea" />
 </div>
 
 <details> 
