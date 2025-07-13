@@ -47,8 +47,8 @@ const akshar = {
 - 🤝 Seeking help with **Industry Standards & Best Practices**
 - 💬 Ask me about **C, C++, Dart, Flutter, PHP**
 
-## 🛠️ Tech Stack
-
+<details> 
+  <summary><h2>🛠️ Tech Stack</h2></summary>
 <div align="center">
   <h3>📱 Mobile Development</h3>
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase" />
@@ -62,6 +62,10 @@ const akshar = {
   <h3>🌐 Other</h3>
   <img src="https://skillicons.dev/icons?i=discord,linkedin,twitter,notion,idea" />
 </div>
+  </details>
+
+
+
 
 <details> 
   <summary><h2>🏆GitHub Award</h2></summary>
@@ -85,7 +89,7 @@ const akshar = {
     </a>
   </p>
   </details>
-  ## 🎵 Fun Section
+<!--   ## 🎵 Fun Section -->
 
 <!---<div align="center">
   <h3>🧩 Fun Facts About Me</h3>
