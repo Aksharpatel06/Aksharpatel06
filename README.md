@@ -47,6 +47,12 @@ const akshar = {
 - 🤝 Seeking help with **Industry Standards & Best Practices**
 - 💬 Ask me about **C, C++, Dart, Flutter, PHP**
 
+### 🎮 When I'm Not Coding...
+- 🧩 Solving puzzles and brain teasers
+- 📚 Reading tech blogs and documentation
+- 🎵 Listening to music while coding
+- 🌟 Contributing to open-source projects
+
 <details> 
   <summary><h2>🛠️ Tech Stack</h2></summary>
 <div align="center">
@@ -96,11 +102,6 @@ const akshar = {
   <img src="https://readme-quotes-api.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 --->
-### 🎮 When I'm Not Coding...
-- 🧩 Solving puzzles and brain teasers
-- 📚 Reading tech blogs and documentation
-- 🎵 Listening to music while coding
-- 🌟 Contributing to open-source projects
 
 ## 📈 Contribution Graph
 
