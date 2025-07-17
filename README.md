@@ -7,7 +7,6 @@
   </a>
 </p>
 
-
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
   <a href="https://aksharpatel.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FF6B6B?style=for-the-badge&logoColor=white&labelColor=FF6B6B&color=FF4757" alt="Portfolio" />
