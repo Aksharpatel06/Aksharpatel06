@@ -69,30 +69,31 @@ const akshar = {
   </details>
 
 
-
-
 <details> 
-  <summary><h2>🏆GitHub Award</h2></summary>
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-     <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aksharpatel06&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-    </a>
-  </p>
-  </details>
+  <summary><h2>🏆 GitHub Award</h2></summary>
+  <div align="center">
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Aksharpatel06&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" 
+         alt="GitHub Trophies"/>
+  </div>
+</details>
+
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
-
   <h3>🔥 Streak Stats</h3>
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aksharpatel06&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" alt="aksharpatel06" /></p>
-       <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aksharpatel06&show_icons=true&locale=en&theme=vue-dark&hide_border=true" alt="aksharpatel06" /></p>
-      <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aksharpatel06&theme=vue-dark&hide_border=true" alt="aksharpatel06" /></p>
-    </a>
-  </p>
-  </details>
+  <br/>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aksharpatel06&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" 
+         alt="Top Languages" height="180"/>
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=Aksharpatel06&show_icons=true&locale=en&theme=vue-dark&hide_border=true" 
+         alt="GitHub Stats" height="180"/>
+  </div>
+  <br/>
+  <div align="center">
+    <img src="https://streak-stats.demolab.com/?user=Aksharpatel06&theme=vue-dark&hide_border=true" 
+         alt="GitHub Streak"/>
+  </div>
+</details>
 <!--   ## 🎵 Fun Section -->
 
 <!---<div align="center">
