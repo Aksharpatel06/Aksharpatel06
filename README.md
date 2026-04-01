@@ -23,7 +23,7 @@
 </div>
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" style="border-radius:50px">
+<img align="right" alt="Coding" width="400" src="https://github.com/ng-model/ng-model/blob/master/workingHard.gif" style="border-radius:50px">
 
 ### 🚀 About Me
 
